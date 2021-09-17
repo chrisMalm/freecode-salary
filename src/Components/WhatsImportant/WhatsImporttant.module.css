@@ -1,0 +1,19 @@
+.whatsImportantContainer {
+	padding-top: 40px;
+}
+.wrapperinputs {
+	width: 65%;
+	display: flex;
+	flex-wrap: wrap;
+	padding-top: 20px;
+	font-weight: 700;
+}
+
+.input {
+	width: 30%;
+	margin: 20px 0px;
+}
+
+.text {
+	padding-top: 20px;
+}
